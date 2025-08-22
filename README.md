@@ -111,7 +111,7 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 - It leverages Socket.IO for instant message delivery and online presence, enables friend requests, last interaction tracking, pinned chats, notifications, and dark/light theme switching with DaisyUI. 
 - The backend is ready for deployment (e.g., Render), while the frontend uses Vite and TailwindCSS, offering a modern, responsive UI with customizable themes and real-time notifications.
 
-### 🗨️💬 [Health-Care-Management-System](https://github.com/Pratapkumar4/Health-Care-Management-System)
+### 👨‍⚕️ [Health-Care-Management-System](https://github.com/Pratapkumar4/Health-Care-Management-System)
 - This project is a comprehensive C++ Healthcare Management System for hospitals, featuring modules for staff management, appointments, room bookings, billing, lab tests, pharmacy orders, and ambulance booking
 - Key features include searching doctors by specialization, robust appointment and room management, hospital-wide automated billing, and advanced error handling using custom exceptions 
 - The system also enables laboratory test selection, nearest ambulance booking based on location, and uses object-oriented design throughout for maintainability and scalability

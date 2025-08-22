@@ -75,11 +75,11 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
   - Skills: Artificial Intelligence (AI), Machine Learning  
 - 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad  
   - Skills: Artificial Intelligence (AI), Django, Flask, Machine Learning, Python    
-- 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
+- 🏆 **PacHack National Level Hackathon** – Presidency University Bengaluru  
   - Skills: React.js, JavaScript, Java, MongoDB  
 - ☁️ **AWS Cloud Foundations Certificate** – Amazon Web Services (AWS)  
   - Skills: Cloud Computing, Cloud Applications  
-- 🎓 **Certificate of Software Testing** – NPTEL- IIIT Bangalore  
+- 🎓 **Certificate of Software Testing** – NPTEL- IIIT Bengaluru  
   - Skills: Software Testing  
 - 🐳 **Kubernetes Course from DevOps Guru** – Infosys Springboard  
   - Skills: Docker, Kubernetes  
@@ -124,7 +124,7 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 
 
 ### 🌍 [NGO-Philanthropy Platform](https://github.com/Pratapkumar4/Pack-Hack-Hackathon)  
-- **This website was built in PacHack National Level Hackathon hosted by Presidency University Bangalore**
+- **This website was built in PacHack National Level Hackathon hosted by Presidency University Bengaluru**
 - Developed a web platform connecting **NGOs** and **philanthropists** for **donations** and **charitable activities**.  
 - Features: NGO and philanthropist registration, donation portal, matching system, and transparency in charity tracking.
   
@@ -140,7 +140,7 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 ---
 
 ## 🎉 **Events Attended**  
-- 🏆 **PacHack National Level Hackathon** – Presidency University Bangaluru  
+- 🏆 **PacHack National Level Hackathon** – Presidency University, Bengaluru  
 - 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering, Bengaluru  
 - 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad    
 

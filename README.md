@@ -7,7 +7,7 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 
 ---
 
-🎓 **Computer Science Student**  
+🎓 **Computer Science Graduate**  
 💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
 
 ---
@@ -63,9 +63,10 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 
 
 ### Domains  
-- Full Stack Development  
+- Full Stack Web Development  
 - AI/ML
-- Cloud Computing  
+- Cloud Computing
+- Computer Networks  
 
 ---
 
@@ -76,7 +77,7 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
   - Skills: Artificial Intelligence (AI), Django, Flask, Machine Learning, Python    
 - 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
   - Skills: React.js, JavaScript, Java, MongoDB  
-- ☁️ **AWS Educate Introduction to Cloud** – Amazon Web Services (AWS)  
+- ☁️ **AWS Cloud Foundations Certificate** – Amazon Web Services (AWS)  
   - Skills: Cloud Computing, Cloud Applications  
 - 🎓 **Certificate of Software Testing** – NPTEL- IIIT Bangalore  
   - Skills: Software Testing  

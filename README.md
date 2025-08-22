@@ -122,10 +122,12 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 - A Java Full Stack web application for enhancing healthcare communication.  
 - Features: Appointment scheduling, medical records management, and secure messaging.
 
+
 ### 🌍 [NGO-Philanthropy Platform](https://github.com/Pratapkumar4/Pack-Hack-Hackathon)  
 - **This website was built in PacHack National Level Hackathon hosted by Presidency University Bangalore**
 - Developed a web platform connecting **NGOs** and **philanthropists** for **donations** and **charitable activities**.  
 - Features: NGO and philanthropist registration, donation portal, matching system, and transparency in charity tracking.
+  
 
 ### 🦠 [Cervical Cancer Image Classification](https://github.com/Pratapkumar4/Cervical-Cell-Analysis-in-Cancer-Diagnosis)  
 - A deep learning project aimed at improving **Squamous Cell Carcinoma (SCC)** classification using advanced **ensemble techniques**.  
@@ -138,8 +140,8 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 ---
 
 ## 🎉 **Events Attended**  
-- 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
-- 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering  
+- 🏆 **PacHack National Level Hackathon** – Presidency University Bangaluru  
+- 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering, Bengaluru  
 - 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad    
 
 ---
@@ -151,7 +153,7 @@ I'm a Computer Science graduate from K.L.E Technological University with a passi
 
 ---
 
-## 🌱 **Interests**  
+## ⭐ **Interests**  
 - Exploring **Emerging Technologies** 💻
 - Playing **Badmition** 🏸  
 - Reading **Books**  📚

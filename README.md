@@ -3,7 +3,7 @@
 ## 🚀 **About Me**  
 
 **Growing in programming**  
-I'm a Computer Science graduate from K.L.E Technological University with a passion for software development, machine learning and cloud computing technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
+I'm a B.E Computer Science graduate from K.L.E Technological University with a passion for software development, machine learning and cloud computing technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
 
 ---
 

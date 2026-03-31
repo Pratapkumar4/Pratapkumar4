@@ -147,7 +147,7 @@ I'm a B.E Computer Science graduate from K.L.E Technological University with a p
 ---
 
 ## 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-Pratapkumar%20Bhajantri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratapkumarbhajantri/)  
+[![LinkedIn](https://www.linkedin.com/in/pratapkumar-bhajantri/)](https://www.linkedin.com/in/pratapkumarbhajantri/)  
 [![GitHub](https://img.shields.io/badge/-Pratapkumar--Bhajantri-black?style=flat&logo=github)](https://github.com/Pratapkumar4)    
 [![Email](https://img.shields.io/badge/-pratapkumarbhajantri4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pratapkumarbhajantri4@gmail.com)
 
